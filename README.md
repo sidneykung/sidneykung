@@ -21,7 +21,7 @@ Currently, I’m on track to graduate Flatiron School’s immersive bootcamp in 
 - Twitter
 - Medium
 
-<a href="https://www.linkedin.com/in/sidneykung/"><https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="sidneykung linkedin" width="200"/>&nbsp;&nbsp;&nbsp;<a href ="https://sidneykung.medium.com/"><img src="https://miro.medium.com/max/195/1*emiGsBgJu2KHWyjluhKXQw.png" alt="medium profile" width="52"/>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/sidney_k98"><img src="https://instagram-brand.com/wp-content/uploads/2016/11/Instagram_AppIcon_Aug2017.png?w=300" alt="@sidney_k98" width = "52">
+<a href="https://www.linkedin.com/in/sidneykung/"><img src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" alt="sidneykung linkedin" width="200"/>&nbsp;&nbsp;&nbsp;<a href ="https://sidneykung.medium.com/"><img src="https://miro.medium.com/max/195/1*emiGsBgJu2KHWyjluhKXQw.png" alt="medium profile" width="52"/>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/sidney_k98"><img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo-700x394.png" alt="@sidney_k98" width = "52">
 
 
 <!--
