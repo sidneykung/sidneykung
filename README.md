@@ -4,6 +4,8 @@ I’m a data scientist based in New York, NY with a background in information ma
 
 Currently, I’m on track to graduate Flatiron School’s immersive bootcamp in January. Stay tuned!
 
+**Check out my website [here](https://www.sidneykung.com/).**
+
 ## ✏ Towards Data Science Articles
 
 - [Chinese Natural Language (Pre)processing: An Introduction](https://towardsdatascience.com/chinese-natural-language-pre-processing-an-introduction-995d16c2705f?source=friends_link&sk=85d63a64f5a1f8dd4235d77bae17aab3)
@@ -16,12 +18,7 @@ Currently, I’m on track to graduate Flatiron School’s immersive bootcamp in 
 
 ## 📫 Let's Connect
 
-- Website
-- Linkedin
-- Twitter
-- Medium
-
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/sidneykung/"><img src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" alt="sidneykung linkedin" width="70"/>&nbsp;&nbsp;&nbsp;<a href ="https://sidneykung.medium.com/"><img src="https://miro.medium.com/max/195/1*emiGsBgJu2KHWyjluhKXQw.png" alt="medium profile" width="70"/>&nbsp;&nbsp;<a href="https://twitter.com/sidney_k98"><img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo-700x394.png" alt="@sidney_k98" width = "120">
+<a href="mailto:sidneyjkung@gmail.com"><img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="sidneyjkung gmail" width="80"/>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/sidneykung/"><img src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" alt="sidneykung linkedin" width="70"/>&nbsp;&nbsp;&nbsp;<a href ="https://sidneykung.medium.com/"><img src="https://miro.medium.com/max/195/1*emiGsBgJu2KHWyjluhKXQw.png" alt="medium profile" width="70"/>&nbsp;&nbsp;<a href="https://twitter.com/sidney_k98"><img src="https://www.pinclipart.com/picdir/big/20-203122_follow-us-twitter-logo-square-png-clipart.png" alt="@sidney_k98" width = "73">
 
 
 <!--
