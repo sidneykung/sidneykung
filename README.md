@@ -4,7 +4,7 @@ I’m a data scientist based in New York, NY with a background in information ma
 
 Currently, I’m on track to graduate Flatiron School’s immersive bootcamp in January. Stay tuned!
 
-**Check out my website [here](https://www.sidneykung.com/).**
+**Check out my featured projects below and my website [here](https://www.sidneykung.com/).**
 
 ## ✏  Towards Data Science Articles
 
