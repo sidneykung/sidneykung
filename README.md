@@ -18,7 +18,7 @@ Currently, I’m on track to graduate Flatiron School’s immersive bootcamp in 
 
 ## 📫  Let's Connect
 
-<a href="mailto:sidneyjkung@gmail.com"><img src="https://www.iconarchive.com/download/i78210/igh0zt/ios7-style-metro-ui/MetroUI-Google-Gmail.ico" alt="sidneyjkung gmail" width="58"/>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/sidneykung/"><img src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" alt="sidneykung linkedin" width="50"/>&nbsp;&nbsp;&nbsp;<a href ="https://sidneykung.medium.com/"><img src="https://miro.medium.com/max/195/1*emiGsBgJu2KHWyjluhKXQw.png" alt="medium profile" width="50"/>&nbsp;&nbsp;<a href="https://twitter.com/sidney_k98"><img src="https://www.pinclipart.com/picdir/big/20-203122_follow-us-twitter-logo-square-png-clipart.png" alt="@sidney_k98" width = "53">
+<a href="mailto:sidneyjkung@gmail.com"><img src="https://www.iconarchive.com/download/i78210/igh0zt/ios7-style-metro-ui/MetroUI-Google-Gmail.ico" alt="sidneyjkung gmail" width="58"/>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/sidneykung/"><img src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" alt="sidneykung linkedin" width="50"/>&nbsp;&nbsp;&nbsp;<a href ="https://sidneykung.medium.com/"><img src="https://miro.medium.com/max/195/1*emiGsBgJu2KHWyjluhKXQw.png" alt="medium profile" width="50"/>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/sidney_k98"><img src="https://www.pinclipart.com/picdir/big/20-203122_follow-us-twitter-logo-square-png-clipart.png" alt="@sidney_k98" width = "53">
 
 
 <!--
