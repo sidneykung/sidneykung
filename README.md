@@ -1,4 +1,4 @@
-## 👋🏼  Welcome!
+## Welcome! 👋🏼
 
 I’m a data scientist based in New York, NY with a background in information management and digital media studies. I love chatting about machine learning, data privacy ethics, the attention economy and user experience (UX). In my spare time, you can catch me hunting for the best restaurant in the city. 
 
