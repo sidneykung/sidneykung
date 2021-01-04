@@ -2,7 +2,7 @@
 
 I’m a data scientist based in New York, NY with a background in information management and digital media studies. I love chatting about machine learning, data privacy ethics, the attention economy and user experience (UX). In my spare time, you can catch me hunting for the best restaurant in the city. 
 
-Currently, I’m on track to graduate Flatiron School’s immersive bootcamp in January. Stay tuned!
+Currently, I’m on track to graduate Flatiron School’s immersive bootcamp on January 8th. Stay tuned!
 
 **Check out my featured projects below and my website [here](https://www.sidneykung.com/).**
 
