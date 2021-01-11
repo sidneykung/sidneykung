@@ -2,9 +2,25 @@
 
 I’m a data scientist based in New York, NY with a background in information management and digital media studies. I love chatting about machine learning, data privacy ethics, the attention economy and user experience (UX). In my spare time, you can catch me hunting for the best restaurant in the city. 
 
-Currently, I’m on track to graduate Flatiron School’s immersive bootcamp on January 8th. Stay tuned!
-
 **Check out my featured projects below and my website [here](https://www.sidneykung.com/).**
+
+## Technical Projects
+
+#### [Twitter Hate Speech Detection](https://github.com/sidneykung/twitter_hate_speech_detection)
+
+Capstone project to automate Twitter hate speech detection with classification modeling. 24,802 tweets were preprocessed using NLTK and RegEx. The final model was a Logistic Regression classifier that used CountVectorizer for feature engineering. It achieved a Recall (TPR) of 0.624 and an [interactive version](https://hate-speech-predictor.herokuapp.com/) has been deployed on Heroku.
+
+#### [LA Crime Forecasting](https://github.com/sidneykung/LA_crime_forecasting)
+
+Time series modeling project to forecast LA reported crime rates based on 10 years worth of recent data. The final SARIMA model predicted the monthly average crime count, with an RMSE of 24.66. Exploratory phase discovered that the top 3 high-risk geographic areas in LA are 77th Street, Southwest and North Hollywood, with Latinx and Black victims being disproportionately impacted.
+
+#### [Credit Card Default Prediction](https://github.com/sidneykung/cc_default_prediction)
+
+Binary classification project to predict whether a client will default on their credit card or not. Baseline models included K Nearest Neighbors, Logistic Regression and Decision Tree baseline models. By using GridSearchCV, the tuned Logistic Regression model was optimized and achieved an F1 score of 0.5418.
+
+#### [Housing Price Prediction](https://github.com/sidneykung/Housing_Price_Model)
+
+This regression analysis project predicts house prices in King County Seattle, Washington. The dataset was sourced from Kaggle and included 17,290 of real estate data. Each iteration of the model used feature selection to optimize each model’s RMSE.  The final Linear Regression model achieved an RMSE of 214,529.87.
 
 ## Medium Articles
 
