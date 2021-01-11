@@ -20,7 +20,7 @@ Binary classification project to predict whether a client will default on their 
 
 #### [Housing Price Prediction](https://github.com/sidneykung/Housing_Price_Model)
 
-This regression analysis project predicts house prices in King County Seattle, Washington. The dataset was sourced from Kaggle and included 17,290 of real estate data. Each iteration of the model used feature selection to optimize each model’s RMSE.  The final Linear Regression model achieved an RMSE of 214,529.87.
+This regression analysis project predicts house prices in King County Seattle, Washington. The dataset was sourced from Kaggle and included 17,290 rows of real estate data. Each iteration of the model used feature selection methods to optimize each model’s RMSE.  The final Linear Regression model achieved an RMSE of 214,529.87.
 
 ## Medium Articles
 
