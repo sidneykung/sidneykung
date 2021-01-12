@@ -4,7 +4,7 @@ I’m a data scientist based in New York, NY with a background in information ma
 
 **Check out my featured projects below and my website [here](https://www.sidneykung.com/).**
 
-## Technical Projects
+## Projects
 
 #### [Twitter Hate Speech Detection](https://github.com/sidneykung/twitter_hate_speech_detection)
 
