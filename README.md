@@ -1,6 +1,6 @@
 ## Welcome! 👋🏼
 
-I’m a Data Scientist based in New York, NY with a passion for discovering how machines understand people. With a background in public relations and crisis management, I help data-driven companies tell their stories intuitively and meaningfully. I love chatting about machine learning, data privacy ethics and the attention economy. In my spare time, you can catch me hunting for the best restaurant in the city. 
+I’m a Data Scientist based in New York, NY with a passion for discovering how machines understand people. Leveraging my background in public relations and crisis management, I help data-driven companies tell their stories intuitively and meaningfully. I love chatting about machine learning, data privacy ethics and the attention economy. In my spare time, you can catch me hunting for the best restaurant in the city. 
 
 
 **Check out my featured projects below and my website [here](https://www.sidneykung.com/).**
