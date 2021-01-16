@@ -38,8 +38,7 @@ This regression analysis project predicts house prices in King County Seattle, W
 
 ## Let's Connect
 
-<a href="https://www.linkedin.com/in/sidneykung/"><img src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" alt="sidneykung linkedin" width="50"/>&nbsp;&nbsp;&nbsp;<a href ="https://sidneykung.medium.com/"><img src="https://miro.medium.com/max/195/1*emiGsBgJu2KHWyjluhKXQw.png" alt="medium profile" width="50"/>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/sidney_k98"><img src="https://www.pinclipart.com/picdir/big/20-203122_follow-us-twitter-logo-square-png-clipart.png" alt="@sidney_k98" width = "53">&nbsp;&nbsp;&nbsp;<a href="mailto:sidneyjkung@gmail.com"><img src="https://www.iconarchive.com/download/i78210/igh0zt/ios7-style-metro-ui/MetroUI-Google-Gmail.ico" alt="sidneyjkung gmail" width="58"/>
-
+<a href="https://www.linkedin.com/in/sidneykung/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://sidneykung.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://twitter.com/sidney_k98" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 <!--
 - 🔭 I’m currently working on ...
