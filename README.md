@@ -2,10 +2,10 @@
 
 I’m a Data Scientist based in New York, NY with a passion for discovering how machines understand people through data. Leveraging my background in public relations and crisis management, I help data-driven companies tell their stories intuitively and meaningfully. I love chatting about machine learning, data privacy ethics and the attention economy. In my spare time, you can catch me hunting for the best restaurant in the city. 
 
-**Check out my featured projects below and my website [here](https://www.sidneykung.com/).**
+**Check out my website [here](https://www.sidneykung.com/) to learn more.**
 
 <p align=left><span align="left">&nbsp;<img align="center" src=https://github-readme-stats.vercel.app/api?username=SidneyKung&theme=buefy&bg_color=FAFBFC&show_icons=true&custom_title=GiHub%20Stats&include_all_commits=true&count_private=true" alt="SidneyKung" /></span>
-
+  
 ## Projects
 
 #### [Twitter Hate Speech Detection](https://github.com/sidneykung/twitter_hate_speech_detection)
@@ -38,7 +38,7 @@ This regression analysis project predicts house prices in King County Seattle, W
 
 ## Let's Connect
 
-<a href="https://www.linkedin.com/in/sidneykung/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://sidneykung.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://twitter.com/sidney_k98" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sidneykung/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://sidneykung.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://twitter.com/sidney_k98" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="mailto:sidneyjkung@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" /></a> 
 
 <!--
 - 🔭 I’m currently working on ...
