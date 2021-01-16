@@ -4,7 +4,7 @@ I’m a Data Scientist based in New York, NY with a passion for discovering how 
 
 **Check out my featured projects below and my website [here](https://www.sidneykung.com/).**
 
-<p align=left><span align="left">&nbsp;<img align="center" src=https://github-readme-stats.vercel.app/api?username=SidneyKung&theme=buefy&show_icons=true&hide_border=true&custom_title=GiHub%20Stats&include_all_commits=true&count_private=true" alt="SidneyKung" /></span>
+<p align=left><span align="left">&nbsp;<img align="center" src=https://github-readme-stats.vercel.app/api?username=SidneyKung&theme=buefy&bg_color=FAFBFC&show_icons=true&custom_title=GiHub%20Stats&include_all_commits=true&count_private=true" alt="SidneyKung" /></span>
 
 ## Projects
 
