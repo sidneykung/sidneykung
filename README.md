@@ -1,13 +1,18 @@
 <!--
 
 
+
+
+
 Hi there!
 
-Please do not copy this, I would really appreciate it :)
+Please do not copy this. I would really appreciate it :)
+
+
+
 
 
 -->
-
 
 
 ## Welcome! 👋🏼
@@ -16,9 +21,18 @@ I’m a Data Scientist based in New York, NY with a passion for discovering how 
 
 **Check out my website [here](https://www.sidneykung.com/) to learn more.**
 
+<!--
+
+Especially this section. 
+I spent a lot of time on this, so please email me if you would like to use this code.
+sidneyjkung@gmail.com
+
+-->
+
 <a href="https://www.linkedin.com/in/sidneykung/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://public.tableau.com/profile/sidney.kung#!/" target="_blank"><img alt="Tableau" src="https://img.shields.io/badge/tableau-%230077B5.svg?&style=for-the-badge&logo=tableau&logoColor=white&color=2FBEBE" /></a> <a href="https://sidneykung.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://twitter.com/sidney_k98" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="mailto:sidneyjkung@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" /></a> 
 
 ***
+
 <p align=left><span align="left">&nbsp;<img align="center" src=https://github-readme-stats.vercel.app/api?username=SidneyKung&theme=buefy&bg_color=FAFBFC&show_icons=true&custom_title=GiHub%20Stats&include_all_commits=true&count_private=true" alt="SidneyKung" /></span>
   
 ## Projects
