@@ -24,7 +24,7 @@ I’m a Data Scientist based in New York, NY with a passion for discovering how 
 
 
 
-Especially this section. 
+Especially this next section. 
 Please email me if you would like to use this code: sidneyjkung@gmail.com
 Thanks!
 
