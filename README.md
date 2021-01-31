@@ -11,11 +11,11 @@ I’m a Data Scientist based in New York, NY with a passion for discovering how 
   
 ## Projects
 
-#### [Twitter Hate Speech Detection](https://github.com/sidneykung/twitter_hate_speech_detection)
+#### [Twitter Hate Speech Detection](https://github.com/sidneykung/twitter_hate_speech_detection) • [Demo](https://www.loom.com/share/b9e7427cbd87455ea58a99480ea59786) • [Web App](https://hate-speech-predictor.herokuapp.com/)
 
-Capstone project to automate Twitter hate speech detection with classification modeling. 24,802 tweets were preprocessed using NLTK and RegEx. The final model was a Logistic Regression classifier that used CountVectorizer for feature engineering. It achieved a Recall (TPR) of 0.624 and an [interactive version](https://hate-speech-predictor.herokuapp.com/) has been deployed on Heroku.
+Capstone project to automate Twitter hate speech detection with classification modeling. 24,802 tweets were preprocessed using NLTK and RegEx. The final model was a Logistic Regression classifier that used CountVectorizer for feature engineering. It achieved a Recall (TPR) of 0.624 and an interactive version has been deployed on Heroku.
 
-#### [LA Crime Forecasting](https://github.com/sidneykung/LA_crime_forecasting)
+#### [LA Crime Forecasting](https://github.com/sidneykung/LA_crime_forecasting) • [Demo](https://www.loom.com/share/f9269d168b5d48e6984fbc3cec914290)
 
 Time series modeling project to forecast LA reported crime rates based on 10 years worth of recent data. The final SARIMA model predicted the monthly average crime count, with an RMSE of 24.66. Exploratory phase discovered that the top 3 high-risk geographic areas in LA are 77th Street, Southwest and North Hollywood, with Latinx and Black victims being disproportionately impacted.
 
