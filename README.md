@@ -3,11 +3,9 @@
 
 
 
-
 Hi there!
 
 Please do not copy this. I would really appreciate it :)
-
 
 
 
@@ -23,9 +21,15 @@ I’m a Data Scientist based in New York, NY with a passion for discovering how 
 
 <!--
 
+
+
+
 Especially this section. 
-I spent a lot of time on this, so please email me if you would like to use this code.
-sidneyjkung@gmail.com
+Please email me if you would like to use this code: sidneyjkung@gmail.com
+Thanks!
+
+
+
 
 -->
 
