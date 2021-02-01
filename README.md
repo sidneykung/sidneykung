@@ -37,7 +37,7 @@ Thanks!
 
 ***
 
-<p align=left><span align="left">&nbsp;<img align="center" src=https://github-readme-stats.vercel.app/api?username=SidneyKung&theme=buefy&bg_color=FAFBFC&show_icons=true&custom_title=GiHub%20Stats&include_all_commits=true&count_private=true" alt="SidneyKung" /></span>
+<p align=left><span align="left">&nbsp;<img align="center" src=https://github-readme-stats.vercel.app/api?username=SidneyKung&theme=buefy&bg_color=FAFBFC&show_icons=true&custom_title=GiHub%20Stats&include_all_commits=true&hide=issues,contribs&count_private=true" alt="SidneyKung" /></span>
   
 ## Projects
 
