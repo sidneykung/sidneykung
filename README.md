@@ -17,6 +17,8 @@ Please do not copy this. I would really appreciate it :)
 
 I’m a Data Scientist based in New York, NY with a passion for discovering how machines understand people through data. Leveraging my background in public relations and crisis management, I help data-driven companies tell their stories intuitively and meaningfully. I love chatting about machine learning, data privacy ethics and the attention economy. In my spare time, you can catch me hunting for the best restaurant in the city. 
 
+<p align=left><span align="left">&nbsp;<img align="center" src=https://github-readme-stats.vercel.app/api?username=SidneyKung&theme=buefy&bg_color=FAFBFC&show_icons=true&custom_title=GiHub%20Stats&include_all_commits=true&hide=issues,contribs&count_private=true" alt="SidneyKung" /></span>
+  
 **Check out my website [here](https://www.sidneykung.com/) to learn more.**
 
 <!--
@@ -37,6 +39,8 @@ Thanks!
 
 <p align=left><span align="left">&nbsp;<img align="center" src=https://github-readme-stats.vercel.app/api?username=SidneyKung&theme=buefy&bg_color=FAFBFC&show_icons=true&custom_title=GiHub%20Stats&include_all_commits=true&hide=issues,contribs&count_private=true" alt="SidneyKung" /></span>
   
+***
+
 ## Projects
 
 #### [Twitter Hate Speech Detection](https://github.com/sidneykung/twitter_hate_speech_detection) • [Demo](https://www.loom.com/share/b9e7427cbd87455ea58a99480ea59786) • [Web App](https://hate-speech-predictor.herokuapp.com/)
