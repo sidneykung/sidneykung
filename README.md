@@ -63,6 +63,7 @@ This regression analysis project predicts house prices in King County Seattle, W
 
 #### Towards Data Science
 
+- [What is Cloud Computing? The Key to Putting Models into Production](https://towardsdatascience.com/what-is-cloud-computing-the-key-to-putting-models-into-production-4152c1d7a5f8?sk=b6ce3abb0c5b478eea7d9e03a09ec6c0)
 - [Chinese Natural Language (Pre)processing: An Introduction](https://towardsdatascience.com/chinese-natural-language-pre-processing-an-introduction-995d16c2705f?source=friends_link&sk=85d63a64f5a1f8dd4235d77bae17aab3)
 - [Adapting Data Science for Non-Binary Inclusivity](https://towardsdatascience.com/adapting-data-science-for-non-binary-inclusivity-368f35a560e3?sk=49cbf985272e62beac60f360112b5d6c)
 - [Python vs R: The Basics](https://towardsdatascience.com/python-vs-r-the-basics-d754c45c1596?sk=9727e7fc6f177ebdb970e1fa7316ed94)
