@@ -64,6 +64,7 @@ This regression analysis project predicts house prices in King County Seattle, W
 
 #### Towards Data Science
 
+- Titanic Survival Analysis — An Introduction to Tableau
 - [Building a Spam Filter from Scratch — Part 2](https://towardsdatascience.com/building-a-spam-filter-from-scratch-part-2-3db6c87be7a5?sk=9d7410fef6c4a0bf2e396ef7cb9667ae)
 - [Building a Spam Filter from Scratch — Part 1](https://towardsdatascience.com/building-a-spam-filter-from-scratch-part-1-1da0d64ba2f0?sk=21f9c63da4e143af945a90734fa81658)
 - [What is Cloud Computing? The Key to Putting Models into Production](https://towardsdatascience.com/what-is-cloud-computing-the-key-to-putting-models-into-production-4152c1d7a5f8?sk=b6ce3abb0c5b478eea7d9e03a09ec6c0)
