@@ -62,8 +62,6 @@ This regression analysis project predicts house prices in King County Seattle, W
 
 ## Published Articles
 
-- [What is the No Free Lunch Theorem?](https://sidneykung.medium.com/what-is-the-no-free-lunch-theorem-ddd5c9e20a8e?sk=b2e87502eed9606651df05295c4b081e)
-
 #### Towards Data Science
 
 - [Titanic Survival Analysis — An Introduction to Tableau](https://towardsdatascience.com/titanic-survival-analysis-an-introduction-to-tableau-ce642ce07ebb?sk=66604be43084bfe8c8092c0148da49c4)
