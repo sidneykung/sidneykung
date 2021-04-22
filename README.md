@@ -64,6 +64,7 @@ This regression analysis project predicts house prices in King County Seattle, W
 
 #### Towards Data Science
 
+- [Jupyter Notebook Not Rendering on GitHub? Here’s a Simple Solution](https://towardsdatascience.com/jupyter-notebook-not-rendering-on-github-heres-a-simple-solution-e51aa6ca29b6?sk=bad177d6b37fcbd0cae5ab39a1cf4094)
 - [Tracking Keyword Trends on Google Search with Pytrends](https://towardsdatascience.com/tracking-keyword-trends-on-google-search-with-pytrends-cf97c43803f6?sk=f6cb538b5ac7983f744d4c35dd84ebc5)
 - [Titanic Survival Analysis — An Introduction to Tableau](https://towardsdatascience.com/titanic-survival-analysis-an-introduction-to-tableau-ce642ce07ebb?sk=66604be43084bfe8c8092c0148da49c4)
 - [Building a Spam Filter from Scratch — Part 2](https://towardsdatascience.com/building-a-spam-filter-from-scratch-part-2-3db6c87be7a5?sk=9d7410fef6c4a0bf2e396ef7cb9667ae)
