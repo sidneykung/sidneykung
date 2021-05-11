@@ -64,7 +64,7 @@ This regression analysis project predicts house prices in King County Seattle, W
 
 #### Towards Data Science
 
-- Venn Diagrams — An Underrated Data Visualization
+- [Venn Diagrams — An Underrated Data Visualization](https://towardsdatascience.com/venn-diagrams-an-underrated-data-visualization-6eb6c123eb4a?sk=7e4650f544c0b84c87658ed87dbbcd10)
 - [Social Media Sentiment Analysis with VADER](https://towardsdatascience.com/social-media-sentiment-analysis-with-vader-c29d0c96fa90?sk=db1ca0eb1b16d5e056d399fc12677168)
 - [Jupyter Notebook Not Rendering on GitHub? Here’s a Simple Solution](https://towardsdatascience.com/jupyter-notebook-not-rendering-on-github-heres-a-simple-solution-e51aa6ca29b6?sk=bad177d6b37fcbd0cae5ab39a1cf4094)
 - [Tracking Keyword Trends on Google Search with Pytrends](https://towardsdatascience.com/tracking-keyword-trends-on-google-search-with-pytrends-cf97c43803f6?sk=f6cb538b5ac7983f744d4c35dd84ebc5)
