@@ -64,13 +64,10 @@ This regression analysis project predicts house prices in King County Seattle, W
 
 #### Towards Data Science
 
-- [Venn Diagrams — An Underrated Data Visualization](https://towardsdatascience.com/venn-diagrams-an-underrated-data-visualization-6eb6c123eb4a?sk=7e4650f544c0b84c87658ed87dbbcd10)
 - [Social Media Sentiment Analysis with VADER](https://towardsdatascience.com/social-media-sentiment-analysis-with-vader-c29d0c96fa90?sk=db1ca0eb1b16d5e056d399fc12677168)
 - [Jupyter Notebook Not Rendering on GitHub? Here’s a Simple Solution](https://towardsdatascience.com/jupyter-notebook-not-rendering-on-github-heres-a-simple-solution-e51aa6ca29b6?sk=bad177d6b37fcbd0cae5ab39a1cf4094)
 - [Tracking Keyword Trends on Google Search with Pytrends](https://towardsdatascience.com/tracking-keyword-trends-on-google-search-with-pytrends-cf97c43803f6?sk=f6cb538b5ac7983f744d4c35dd84ebc5)
 - [Titanic Survival Analysis — An Introduction to Tableau](https://towardsdatascience.com/titanic-survival-analysis-an-introduction-to-tableau-ce642ce07ebb?sk=66604be43084bfe8c8092c0148da49c4)
-- [Building a Spam Filter from Scratch — Part 2](https://towardsdatascience.com/building-a-spam-filter-from-scratch-part-2-3db6c87be7a5?sk=9d7410fef6c4a0bf2e396ef7cb9667ae)
-- [Building a Spam Filter from Scratch — Part 1](https://towardsdatascience.com/building-a-spam-filter-from-scratch-part-1-1da0d64ba2f0?sk=21f9c63da4e143af945a90734fa81658)
 - [What is Cloud Computing? The Key to Putting Models into Production](https://towardsdatascience.com/what-is-cloud-computing-the-key-to-putting-models-into-production-4152c1d7a5f8?sk=b6ce3abb0c5b478eea7d9e03a09ec6c0)
 - [Chinese Natural Language (Pre)processing: An Introduction](https://towardsdatascience.com/chinese-natural-language-pre-processing-an-introduction-995d16c2705f?source=friends_link&sk=85d63a64f5a1f8dd4235d77bae17aab3)
 - [Adapting Data Science for Non-Binary Inclusivity](https://towardsdatascience.com/adapting-data-science-for-non-binary-inclusivity-368f35a560e3?sk=49cbf985272e62beac60f360112b5d6c)
