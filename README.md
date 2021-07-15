@@ -15,7 +15,7 @@ Please do not copy this. I would really appreciate it :)
 
 ## Welcome 👋🏼
 
-I’m a Data Scientist based in New York with a passion for understanding people through data. Leveraging my background in public relations and crisis management, I help data-driven companies tell their stories intuitively and meaningfully. I love chatting about machine learning, data privacy ethics and the attention economy. In my spare time, you can find me searching for the best restaurant in the city. 
+I’m a Data Scientist based in New York with a passion for understanding people through data. Leveraging my background in public relations and crisis management, I help data-driven companies tell their stories intuitively and meaningfully. I love chatting about machine learning, data privacy ethics and the attention economy. In my spare time, you can catch me searching for the best restaurant in the city. 
   
 **Check out my website [here](https://www.sidneykung.com/) to learn more.**
 
