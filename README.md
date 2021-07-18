@@ -50,7 +50,7 @@ Capstone project to automate Twitter hate speech detection with classification m
 
 #### [LA Crime Forecasting](https://github.com/sidneykung/LA_crime_forecasting)  •  [Demo](https://www.loom.com/share/f9269d168b5d48e6984fbc3cec914290)
 
-Time series modeling project to forecast LA reported crime rates based on 10 years worth of recent data. The final SARIMA model predicted the monthly average crime count, with an RMSE of 24.66. Exploratory phase discovered that the top 3 high-risk geographic areas in LA are 77th Street, Southwest and North Hollywood, with Latinx and Black victims being disproportionately impacted.
+Time series modeling project to forecast LA reported crime rates based on 10 years worth of data. The final SARIMA model predicted the monthly average crime count, with an RMSE of 24.66. Exploratory phase discovered that the top 3 high-risk geographic areas in LA are 77th Street, Southwest and North Hollywood, with Latinx and Black victims being disproportionately impacted.
 
 #### [Credit Card Default Prediction](https://github.com/sidneykung/cc_default_prediction)
 
