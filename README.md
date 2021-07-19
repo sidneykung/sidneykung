@@ -46,7 +46,7 @@ Thanks!
 
 #### [Twitter Hate Speech Detection](https://github.com/sidneykung/twitter_hate_speech_detection)  •  [Demo](https://www.loom.com/share/b9e7427cbd87455ea58a99480ea59786) • [Web App](https://hate-speech-predictor.herokuapp.com/)
 
-Capstone project to automate Twitter hate speech detection with classification modeling. 24,802 tweets were preprocessed using NLTK and RegEx. The final model was a Logistic Regression classifier that used CountVectorizer for feature engineering. It achieved a Recall (TPR) of 0.624 and an interactive version has been deployed on Heroku.
+This project automates Twitter hate speech detection with classification modeling. To prepare the data, 24,802 tweets were preprocessed using NLTK and RegEx. The final model was a Logistic Regression classifier that used CountVectorizer for feature engineering. It achieved a Recall (TPR) of 0.624 and an interactive version has been deployed on Heroku.
 
 #### [LA Crime Forecasting](https://github.com/sidneykung/LA_crime_forecasting)  •  [Demo](https://www.loom.com/share/f9269d168b5d48e6984fbc3cec914290)
 
@@ -54,7 +54,7 @@ Time series modeling project to forecast LA reported crime rates based on 10 yea
 
 #### [Credit Card Default Prediction](https://github.com/sidneykung/cc_default_prediction)
 
-Binary classification project to predict whether a client will default on their credit card or not. Baseline models included K Nearest Neighbors, Logistic Regression and Decision Tree models. By using GridSearchCV, the tuned Random Forest model was optimized and achieved an F1 score of 0.5412.
+Binary classification project to predict whether a client will default on their credit card or not. Baseline models included K Nearest Neighbors, Logistic Regression and Decision Tree models. By using GridSearchCV, the tuned Random Forest model was optimized and reached an F1 score of 0.5412.
 
 #### [Housing Price Prediction](https://github.com/sidneykung/Housing_Price_Model)
 
