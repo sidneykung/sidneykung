@@ -54,7 +54,7 @@ Time series modeling project to forecast LA reported crime rates based on 10 yea
 
 #### [Credit Card Default Prediction](https://github.com/sidneykung/cc_default_prediction)
 
-Binary classification project to predict whether a client will default on their credit card or not. Baseline models included K Nearest Neighbors, Logistic Regression and Decision Tree models. By using GridSearchCV, the tuned Random Forest model was optimized and reached an F1 score of 0.5412.
+Binary classification project to predict whether oro not a client will default on their credit card. Baseline models included K Nearest Neighbors, Logistic Regression and Decision Tree models. By using GridSearchCV, the tuned Random Forest model was optimized and reached an F1 score of 0.5412.
 
 #### [Housing Price Prediction](https://github.com/sidneykung/Housing_Price_Model)
 
