@@ -42,7 +42,7 @@ Thanks!
 
 <!--<a href="https://www.sidneykung.com/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 
-## Technical Projects
+## Projects
 
 #### [Twitter Hate Speech Detection](https://github.com/sidneykung/twitter_hate_speech_detection)  •  [Demo](https://www.loom.com/share/b9e7427cbd87455ea58a99480ea59786) • [Web App](https://hate-speech-predictor.herokuapp.com/)
 
